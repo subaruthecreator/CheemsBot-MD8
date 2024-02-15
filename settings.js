@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
+global.owner = ['919614477116'] //ur owner number
+global.ownernomer = "918345084568" //ur owner number2
 global.ownername = "🦄Dream Guy Xeon" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -30,18 +30,18 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.ownernumber = '919614477116'
+global.ownername = '🦄𝙎 𝙐 𝞑 𝞓 𝞒 𝙐 🕊✨'
+global.ownerNumber = ["919614477116@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
+global.packname = "❤‍🩹𝓘❜𝓶 𝓷𝓸𝓽 𝓪𝓯𝓻𝓪𝓲𝓭 𝓸𝓯 𝓼𝓽𝓸𝓻𝓶𝓼 𝓫𝓮𝓬𝓪𝓾𝓼𝓮 𝓘❜𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓽𝓸 𝓼𝓪𝓲𝓵 𝓶𝔂 𝓸𝔀𝓷 𝓼𝓱𝓲𝓹👀🛥ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ+₉₆₁₄₄₇₇₁₁₆ㅤ👀  𝖘𝖚𝖇𝖆𝖗𝖚ㅤㅤㅤㅤㅤㅤㅤ𝓞𝓷𝓵𝔂 𝓛𝓸𝓸𝓴 𝓗𝓮𝓮 𝓐𝓽𝓽𝓲𝓽𝓾𝓭𝓮😈 𝓦𝓪𝓵𝓪 𝓗𝓪𝓲 𝓑𝓾𝓽♥ 𝓓𝓲𝓵 𝓜𝓮 𝓚𝓸𝓲 𝓖𝓱𝓪𝓶𝓪𝓷𝓭 𝓝𝓪𝓱𝓲 𝓗𝓪𝓶𝓪𝓻𝓮😇"
 global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "919614477116@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
